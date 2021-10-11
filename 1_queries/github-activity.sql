@@ -1,0 +1,1 @@
+mail, phone FROM students WHERE github is null and end_date < current_date;
